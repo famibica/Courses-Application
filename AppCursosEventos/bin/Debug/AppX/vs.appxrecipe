@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MATHEUS</Machine>
+    <WindowsUser>Matheus</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>2064C0B7FF6637518746B3779F5200EF384B6FD2A05389E0B86ADE0073E4D416</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19752bcb-ca40-4198-8c2a-b9acca03dcac_1.0.0.0_neutral__jkbaqktgv6p7a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19752bcb-ca40-4198-8c2a-b9acca03dcac_jkbaqktgv6p7a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19752bcb-ca40-4198-8c2a-b9acca03dcac</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Matheus</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Matheus\Documents\projeto-cursos\AppCursosEventos\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-20T16:50:39.552</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Matheus\Documents\projeto-cursos\AppCursosEventos\bin\Debug\AppCursosEventos.exe">
+      <PackagePath>AppCursosEventos.exe</PackagePath>
+      <Modified>2013-11-20T16:56:04.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus\Documents\projeto-cursos\AppCursosEventos\bin\Debug\AppCursosEventos.pdb">
+      <PackagePath>AppCursosEventos.pdb</PackagePath>
+      <Modified>2013-11-20T16:56:04.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus\Documents\projeto-cursos\AppCursosEventos\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-20T14:25:14.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus\Documents\projeto-cursos\AppCursosEventos\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-17T02:14:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus\Documents\projeto-cursos\AppCursosEventos\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-17T02:14:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus\Documents\projeto-cursos\AppCursosEventos\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-17T02:14:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus\Documents\projeto-cursos\AppCursosEventos\Imagens\Logo1.png">
+      <PackagePath>Imagens\Logo1.png</PackagePath>
+      <Modified>2013-11-20T16:14:33.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus\Documents\projeto-cursos\AppCursosEventos\Assets\SplashScreen.jpg">
+      <PackagePath>Assets\SplashScreen.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-20T14:29:18.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus\Documents\projeto-cursos\AppCursosEventos\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-11-20T14:10:36.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus\Documents\projeto-cursos\AppCursosEventos\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-11-20T16:51:41.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus\Documents\projeto-cursos\AppCursosEventos\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-11-20T16:55:55.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matheus\Documents\projeto-cursos\AppCursosEventos\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-11-20T16:50:39.495</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
